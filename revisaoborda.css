@@ -1,0 +1,9 @@
+.revisao {
+    border-style: solid;
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    color: grey;
+    background-color: grey;
+    border-width: 0px;
+}
